@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 33
+      "likes": 37
     },
     {
       "id": 2,
@@ -47,6 +47,30 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Mrs. Potato Head",
+      "image": "https://static.wikia.nocookie.net/pixar/images/a/a7/BEST_MRS.POTATO_HEAD_EVER.png/revision/latest?cb=20210210225058",
+      "likes": 1,
+      "id": 9
+    },
+    {
+      "name": "Jessie",
+      "image": "https://static.wikia.nocookie.net/toystorymerchandise/images/7/7e/Jessierender.jpg/revision/latest?cb=20191020221145",
+      "likes": 1,
+      "id": 10
+    },
+    {
+      "name": "Bullseye",
+      "image": "https://static.wikia.nocookie.net/pixar/images/1/11/Ddhg6tl-5c1bedb5-645a-41d9-86ed-08ba6eb1daa8.png/revision/latest/top-crop/width/360/height/360?cb=20210203004509",
+      "likes": 1,
+      "id": 11
+    },
+    {
+      "name": "Commander Zurg",
+      "image": "https://static.wikia.nocookie.net/villains/images/e/ef/Empreror_Zurg.png/revision/latest?cb=20180928220305",
+      "likes": 1,
+      "id": 12
     }
   ]
 }
